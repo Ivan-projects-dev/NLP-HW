@@ -6,15 +6,3 @@
 яблуко noun
 олівець noun
 хлопець noun
-новий adj
-швидкий adj
-великий adj
-гарний adj
-старий adj
-темний adj
-писати verb
-читати verb
-грати verb
-говорити verb
-робити verb
-сидіти verb
